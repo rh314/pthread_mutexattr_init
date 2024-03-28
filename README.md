@@ -1,3 +1,7 @@
+```
+NOTE: Forked / backed up from https://github.com/dimaqq/pthread_mutexattr_init/fork
+```
+
 # IPC Synchronisation
 
 Can 2 unrelated processes share a mutex and condition variable?
