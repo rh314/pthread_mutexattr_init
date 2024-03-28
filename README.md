@@ -1,5 +1,7 @@
 ```
-NOTE: Forked / backed up from https://github.com/dimaqq/pthread_mutexattr_init/fork
+NOTE:
+- Forked / backed up from https://github.com/dimaqq/pthread_mutexattr_init/fork
+- Also see: https://stackoverflow.com/questions/35265781/share-futex-between-unrelated-processes
 ```
 
 # IPC Synchronisation
